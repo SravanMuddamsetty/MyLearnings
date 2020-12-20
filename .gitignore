@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+Learnings/src/environments/environment.prod.ts
+Learnings/src/environments/environment.ts
